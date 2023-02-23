@@ -1,0 +1,15 @@
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.exe
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.deps.json
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.runtimeconfig.json
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.dll
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\bin\Debug\net6.0\Lommeregner.pdb
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.csproj.AssemblyReference.cache
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.AssemblyInfoInputs.cache
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.AssemblyInfo.cs
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.dll
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\refint\Lommeregner.dll
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.pdb
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\Lommeregner.genruntimeconfig.cache
+C:\Users\45217\Desktop\Datamatiker\ex5\Lommeregner\Lommeregner\obj\Debug\net6.0\ref\Lommeregner.dll

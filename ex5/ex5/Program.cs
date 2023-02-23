@@ -8,27 +8,29 @@ namespace ex5
         
         static void Main(string[] args)
         {
-          
-            Bil renault = new Bil();
 
-            Console.WriteLine(renault.Fart(100));
-            Console.ReadLine();
+            Console.WriteLine("");
         }
     }
 
-    public class Bil
-    {
-        
-        private int speed = 0;
-        private int doors = 4;
-
-
-        public int Fart(int a)
+    public class Calculator
+    {       
+        public int Add(int x, int y) 
         {
-            speed = a;
-            return speed;
+            return x + y;
         }
-
+        public int Subtract(int x, int y) 
+        {
+            return x - y;
+        }
+        public double Divide(int x, int y) 
+        { 
+            return x / y; 
+        }
+        public int Multiply(int x, int y) 
+        { 
+            return x * y;
+        }
     }
 
     
